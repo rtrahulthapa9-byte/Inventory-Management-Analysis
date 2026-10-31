@@ -1,6 +1,7 @@
 
-![Image](image.png)
+![Image](https://github.com/rtrahulthapa9-byte/supermarket-inventory-analysis-excel/blob/3593499bebd6dcdf31f67f036746a3c3b2d2f640/page_1.png)
 
+[📊 Download Excel Report](https://github.com/rtrahulthapa9-byte/supermarket-inventory-analysis-excel/blob/3593499bebd6dcdf31f67f036746a3c3b2d2f640/Reports.xlsx)
 
 # 📦 Inventory Management MIS Report
 
